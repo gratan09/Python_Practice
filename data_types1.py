@@ -25,3 +25,8 @@ print(type(book_name))
 print(type(book_price))
 print(type(is_avaliable))
 print(type(author))
+
+
+
+
+
