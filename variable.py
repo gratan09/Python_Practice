@@ -1,4 +1,4 @@
-student_name = "Ratan"
+student_name = "Abhay"
 student_age = 23
 branch = "CSE"
 college = "CBIT"
