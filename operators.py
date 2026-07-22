@@ -40,3 +40,19 @@ a = 11
 b = 4
 
 print(a%b)
+
+
+
+#even number check
+
+number = int(input("Enter the number: "))
+
+print(number % 2)
+
+
+#power
+
+a = 5
+b = 3
+
+print(a**b)
