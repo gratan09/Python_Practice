@@ -45,7 +45,7 @@ print(a%b)
 
 #even number check
 
-number = int(input("Enter the number: "))
+number = 5
 
 print(number % 2)
 
