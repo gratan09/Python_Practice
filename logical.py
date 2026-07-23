@@ -16,3 +16,9 @@ print (True or False)
 
 print(not True)
 
+
+# example
+
+age = 24
+
+print(age > 18 and age < 30)
