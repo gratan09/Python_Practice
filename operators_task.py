@@ -1,5 +1,5 @@
 #task 1
-"""
+
 num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
 
@@ -13,9 +13,7 @@ print(f"The modulus of the given numbers is: {num1 % num2}")
 
 print(f"The power of the given numbers is: {num1**num2}")
 
-"""
 
-"""
 #task 2
 
 number1 = int(input("Enter the 1st number: "))
@@ -26,7 +24,6 @@ print(f"is 1st number smaller than 2nd number: {number1 < number2}")
 print(f" are they equal: {number1 == number2}")
 
 
-"""
 #task 3
 
 age = int(input("Enter your age: "))
