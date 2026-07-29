@@ -20,3 +20,5 @@ name1 = "Alex"
 print(name1[0])
 
 print(name1[3])
+
+print(name1[2])
