@@ -22,3 +22,5 @@ print(name1[0])
 print(name1[3])
 
 print(name1[2])
+
+print(name1[1])
