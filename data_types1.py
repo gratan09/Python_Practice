@@ -27,6 +27,8 @@ print(type(is_avaliable))
 print(type(author))
 print("!")
 
+print(type(book_name))
+
 
 
 
