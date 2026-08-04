@@ -22,3 +22,5 @@ print(not True)
 age = 24
 
 print(age > 18 and age < 30)
+
+print(age > 20 and age < 21)
