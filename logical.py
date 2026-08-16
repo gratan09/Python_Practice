@@ -26,3 +26,5 @@ print(age > 18 and age < 30)
 print(age > 20 and age < 21)
 
 print(age > 25 and age < 22)
+
+print(age > 25 and age < 22)
